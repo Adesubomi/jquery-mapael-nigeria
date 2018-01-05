@@ -1,4 +1,4 @@
-g/*!
+/*!
  *
  * Jquery Mapael - Dynamic maps jQuery plugin (based on raphael.js)
  * Requires jQuery and Mapael >=2.0.0
